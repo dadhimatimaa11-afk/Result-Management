@@ -1,0 +1,8 @@
+{
+  "subjects": [
+    { "name": "Maths" },
+    { "name": "Science" },
+    { "name": "English" },
+    { "name": "History" }
+  ]
+}
